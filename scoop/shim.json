@@ -1,5 +1,5 @@
 {
 	"version": "0.2014.09.17",
-	"url": "",
+	"url": "https://github.com/lukesampson/shimexe/archive/master.zip",
 	"bin": "bin/shim.ps1"
 }
